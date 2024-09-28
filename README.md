@@ -4,11 +4,11 @@
 
 #### **1. Introduction**
 
-This project focuses on identifying unique individuals captured in CCTV footage using facial recognition techniques. The primary goal is to detect and recognize each person in the video and assign them a unique ID based on facial characteristics. By doing so, we can track each individual throughout the video, even if they reappear in different frames.
+This project focuses on identifying unique individuals in videos using facial recognition techniques. The primary goal is to detect and recognize each person in the video and assign them a unique ID based on facial characteristics. By doing so, we can track each individual throughout the video, even if they reappear in different frames.
 
 #### **2. Objectives**
 
-- To develop an end-to-end system capable of detecting faces in CCTV videos.
+- To develop an end-to-end system capable of detecting faces in videos.
 - To extract facial embeddings and compare them to identify unique individuals.
 - To assign a unique ID to each detected person based on facial similarities.
 
