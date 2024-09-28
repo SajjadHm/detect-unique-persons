@@ -94,3 +94,5 @@ To address these challenges, the following solutions were proposed:
 #### **7. Conclusion**
 
 This project successfully developed a system to detect and recognize unique individuals in CCTV footage based on facial embeddings. While the system performed well in initial tests, further fine-tuning and optimization are necessary to achieve more reliable results. The code, along with all relevant resources such as notebooks and weights is available in the accompanying GitHub repository for further exploration and development.
+
+#### **NOTE:** I added images and videos to `.gitignore` due to privacy concerns.
