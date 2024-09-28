@@ -1,7 +1,6 @@
 
 ### Detection of Unique Persons in CCTV Video Based on Facial Area
 
-#### Note: Final notebook is named [**FindUniquePersons_via_FaceRecognition.ipynb**](Notebooks/FindUniquePersons_via_FaceRecognition.ipynb)
 
 #### **1. Introduction**
 
