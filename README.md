@@ -1,5 +1,5 @@
 
-### Detection of Unique Persons in CCTV Video Based on Facial Area
+### Detection of Unique Persons in Videos Based on Facial Area
 
 
 #### **1. Introduction**
